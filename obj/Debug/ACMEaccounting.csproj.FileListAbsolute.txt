@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\ACMEaccounting\ACMEaccounting\bin\Debug\ACMEaccounting.exe.config
+C:\Users\Student\source\repos\ACMEaccounting\ACMEaccounting\bin\Debug\ACMEaccounting.exe
+C:\Users\Student\source\repos\ACMEaccounting\ACMEaccounting\bin\Debug\ACMEaccounting.pdb
+C:\Users\Student\source\repos\ACMEaccounting\ACMEaccounting\obj\Debug\ACMEaccounting.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ACMEaccounting\ACMEaccounting\obj\Debug\ACMEaccounting.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ACMEaccounting\ACMEaccounting\obj\Debug\ACMEaccounting.exe
+C:\Users\Student\source\repos\ACMEaccounting\ACMEaccounting\obj\Debug\ACMEaccounting.pdb
